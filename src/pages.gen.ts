@@ -404,7 +404,6 @@ type Page =
 | { path: '/projects/soldeer'; render: 'static' }
 | { path: '/introduction/getting-started'; render: 'static' }
 | { path: '/introduction/installation'; render: 'static' }
-| { path: '/introduction/prompting'; render: 'static' }
 | { path: '/help/faq'; render: 'static' }
 | { path: '/help/troubleshooting'; render: 'static' }
 | { path: '/guides/debugging-transactions'; render: 'static' }
